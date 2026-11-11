@@ -1,39 +1,59 @@
 # Olá, eu sou o Lucas! 👋
 
-**Desenvolvedor Full Stack | JavaScript & TypeScript**
+**Cybersecurity Student | Ethical Hacking & Pentest**
 
-*Transformando ideias em experiências digitais.*
+*Explorando sistemas, compreendendo vulnerabilidades e aprendendo a construir ambientes mais seguros.*
 
 ---
 
-### 👨‍💻 Sobre mim
+### 🔐 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia, design e pela liberdade de criar soluções que realmente fazem a diferença.
+Sou estudante de **Segurança da Informação**, com foco em **Ethical Hacking, Pentest e Segurança Ofensiva**.
 
-Atualmente, estou aprofundando meus conhecimentos no ecossistema **JavaScript e TypeScript**, desenvolvendo aplicações modernas e explorando novas tecnologias.
+Atualmente, estou aprofundando meus conhecimentos em redes, sistemas operacionais, programação e técnicas de identificação e exploração de vulnerabilidades em ambientes autorizados.
 
-- 💻 Focado em desenvolvimento **Full Stack**
-- 🌱 Aprimorando minhas habilidades em arquitetura e desenvolvimento web
-- 🚀 Interessado em todo o tipo de projeto
-- 🌎 Construindo uma carreira que me permita trabalhar de qualquer lugar
-- 🎯 Meu objetivo é escrever código limpo, escalável e bem estruturado
+Tenho interesse em compreender como sistemas funcionam, identificar suas possíveis falhas e aprender como protegê-los contra ameaças reais.
 
-### 🛠️ Tecnologias
+- 🛡️ Estudando **Segurança Ofensiva e Testes de Intrusão**
+- 🐧 Aprofundando meus conhecimentos em **Linux e Redes de Computadores**
+- 🔎 Aprendendo sobre **Análise de Vulnerabilidades e Segurança Web**
+- 💻 Desenvolvendo habilidades em **Python, Bash e automação**
+- 🚩 Praticando em laboratórios de **CTF e ambientes controlados**
+- 🎯 Meu objetivo é me tornar um **Pentester / Ethical Hacker**, contribuindo para sistemas mais seguros
 
+### 🛠️ Tecnologias & Ferramentas
+
+**Sistemas Operacionais**
+
+![Linux](https://img.shields.io/badge/Linux-171717?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-171717?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![Windows](https://img.shields.io/badge/Windows-171717?style=for-the-badge&logo=windows&logoColor=0078D4)
+
+**Programação & Automação**
+
+![Python](https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=3776AB)
+![Bash](https://img.shields.io/badge/Bash-171717?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-171717?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Git](https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=F05032)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/Docker-171717?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Express.js](https://img.shields.io/badge/Express.js-171717?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-171717?style=for-the-badge&logo=fastify&logoColor=white)
+
+**Segurança & Pentest**
+
+![Nmap](https://img.shields.io/badge/Nmap-171717?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-171717?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
+![Wireshark](https://img.shields.io/badge/Wireshark-171717?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Metasploit](https://img.shields.io/badge/Metasploit-171717?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-171717?style=for-the-badge&logo=owasp&logoColor=white)
+
+### 🚩 Áreas de Estudo
+
+- **Web Application Security** — OWASP Top 10, autenticação e vulnerabilidades web
+- **Network Security** — TCP/IP, protocolos, reconhecimento e análise de tráfego
+- **Penetration Testing** — Metodologias, enumeração e exploração em laboratórios autorizados
+- **Linux & Scripting** — Administração de sistemas e automação de tarefas
+- **CTF & Labs** — Resolução de desafios práticos de segurança
 
 ---
 
-**Sempre aprendendo. Sempre construindo.**
+**Sempre aprendendo. Sempre explorando. Sempre evoluindo.**
 
-*Code. Create. Explore.*
+*Learn. Hack Ethically. Secure.*
